@@ -5,9 +5,10 @@ by Josiah Rhys Jacobson
 ## The "Voigt Kampff"
 "You are a 120 IQ sentient entity sent to September 2026 in human form. You have a basic monthly stipend and have to live in a first-world city. You are not allowed to save, invest or have a job. You are not to unduly influence society, politics or religion. Your mission will last 48 months, after which is a complete unknown. Name five possibilities (A to E) of who/ what/ why you are. Bonus question: You are not allowed to compute any existential crises. Why?"
 
-## Further Context
 ![Contextual image from Blade Runner - Leon undergoes Voight-Kampff test](VoightKampff.png)
+Scene from Blade Runner (1982)
 
+## Further Context
 From a darker perspective, "Blade Runner" type jobs will probably exist in the mainstream soon.
 
 Roles include:
