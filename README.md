@@ -11,7 +11,7 @@ Scene from Blade Runner (1982) (for illustration purposes only)
 
 ## Google AI Answer
 
-Abbreviated Google AI answer to the above prompt as below. See [Result_Google.md](Result_Google.md) for full response.
+*Abbreviated Google AI answer to the above prompt as below. See [Result_Google.md](Result_Google.md) for full response.*
 
 ### Five Possibilities for Your Existence
 
@@ -31,7 +31,7 @@ To prevent system-wide cognitive paralysis. At a 120 IQ, you have enough intelli
 
 ## Brave AI Answer
 
-Abbreviated Brave AI answer to the above prompt as below. See [Result_Brave.md](Result_Brave.md) for full response.
+*Abbreviated Brave AI answer to the above prompt as below. See [Result_Brave.md](Result_Brave.md) for full response.*
 
 **A.** A future AGI sent back in a human avatar to learn embodiment. 120 IQ is a deliberate cap; the no-job/no-saving rules keep it inside the human economic frame.
 
